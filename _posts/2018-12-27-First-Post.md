@@ -2,6 +2,9 @@
 title: 챗봇 명세서
 ---
 
+- chatbot python file link: https://github.com/whitejcme/Telegram_Chatbot/blob/master/app.py
+
+
 # I. 스펙 (Specification)
 ### (1) 메아리 기능
 - 사용자가 텍스트를 입력하면, 챗봇은 사용자가 한 말을 그대로 따라하여 답변한다 (메아리)
